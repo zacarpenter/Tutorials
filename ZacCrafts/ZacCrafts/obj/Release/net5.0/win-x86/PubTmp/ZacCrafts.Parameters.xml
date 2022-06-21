@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ZacCraftsIsAwesome" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\zacar\\source\\repos\\ZacCrafts\\ZacCrafts\\obj\\Release\\net5\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
